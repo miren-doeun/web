@@ -1,0 +1,20 @@
+.clor-r{
+    color: red;
+}
+.clor-b{
+    color:blueviolet;
+}
+.font-50{
+    font-size: 50px;
+}
+.select-style1{
+    height: 40px;
+    font-size: 20px;
+    color:blue;
+}
+.tb>tr>td{
+    border:1px solid black;
+    font-size: 14px;
+    font-weight: 100;
+    color: red;
+}
